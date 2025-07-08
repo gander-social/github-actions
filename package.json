@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A collection of GitHub Actions",
   "main": "index.js",
-  "repository": "https://github.com/bluesky-social/github-actions",
-  "author": "bluesky-social",
+  "repository": "https://github.com/gander-social/github-actions",
+  "author": "gander-social",
   "license": "MIT",
   "scripts": {
     "build": "bash build.sh",

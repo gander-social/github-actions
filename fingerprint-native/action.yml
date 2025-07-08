@@ -1,6 +1,6 @@
 ---
 name: Fingerprint Native Changes
-author: bluesky-social
+author: gander-social
 description: Debug the fingerprint of two separate commits for OTA-breaking changes
 runs:
   using: node20
